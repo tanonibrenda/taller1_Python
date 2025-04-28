@@ -25,3 +25,5 @@ print(f"El día {fecha}, usted realizó un gasto por el monto de ${monto:.2f}, e
 	#Leer monto
 	#Escribir 'el día ', fecha, ' usted realizó un gasto de $', monto, ', en concepto de ', descripcion, ' dentro de la categoría ', categoria
 #FinAlgoritmo
+
+#Integrantes: Yohena Tanoni, Brenda; Orozco Lucas Raul; Sofía Painenahuel
